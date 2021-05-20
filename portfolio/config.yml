@@ -1,0 +1,6 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: AmanR
+theme: "PaperMod"
+enableEmoji: true
+
