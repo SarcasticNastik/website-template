@@ -1,0 +1,7 @@
+timeout: 30000
+enableInlineShortcodes: true
+
+taxonomies:
+  tag: tags
+  category: categories
+  series: series

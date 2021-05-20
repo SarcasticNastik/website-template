@@ -1,7 +1,6 @@
 ---
 title: "Pnc"
 date: 2021-05-20T19:05:35+05:30
-draft: true
 ---
 # A First Course In Probability
 
