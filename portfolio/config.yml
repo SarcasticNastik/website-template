@@ -46,13 +46,13 @@ params:
     title: "Aman Rojjha"
     subtitle: "I'm an undergraduate researcher, currently interested in Reinforcement Learning, Deep Learning and Differential Privacy."
     imageUrl: ""
-    buttons: 
-      - name: Archive
-        url: "/archives/"
-      - name: Research
-        url: "/research/"
-      - name: Search
-        url: "/search"
+    # buttons: 
+    #   - name: Archive
+    #     url: "/archives/"
+    #   - name: Research
+    #     url: "/research/"
+    #   - name: Search
+    #     url: "/search"
   markup:
     highlight:
       style: monokai
