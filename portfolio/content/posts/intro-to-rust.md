@@ -13,6 +13,6 @@ use std::mem;
 
 fn main() {
     let mut name: &str = "Aman";
-    println!("Hello {}!", name);
+    println!("Hello => {}!", name);
 }
 ```

@@ -6,6 +6,9 @@ theme: "PaperMod"
 enableEmoji: true
 enableRobotsTXT: true
 
+staticDir:
+  - static
+
 menu:
   main:
     - identifier: Archives
@@ -25,7 +28,6 @@ menu:
       url: "/research/"
       weight: 5
 
-
 params:
   env: production
   description: "Portfolio website of Aman Rojjha"
@@ -38,7 +40,7 @@ params:
   comments: true
 
   homeInfoParams:
-    Title: Hi there! I'm Aman. 
+    Title: Hi there! I'm Aman.
     Content: I'm an undergraduate research currently working in Differential Privacy working with Machine Learning Lab, IIIT Hyderabad.
 
   profileMode:
@@ -46,7 +48,7 @@ params:
     title: "Aman Rojjha"
     subtitle: "I'm an undergraduate researcher, currently interested in Reinforcement Learning, Deep Learning and Differential Privacy."
     imageUrl: ""
-    # buttons: 
+    # buttons:
     #   - name: Archive
     #     url: "/archives/"
     #   - name: Research
@@ -60,7 +62,7 @@ params:
       guessSyntax: true
       lineNos: true
 
-  socialIcons: 
+  socialIcons:
     - name: Facebook
       url: "https://www.facebook.com/aman.rojjha"
     - name: Github
@@ -72,7 +74,7 @@ params:
     appendFilePath: true
 
 outputs:
-  home: 
+  home:
     - HTML
     - RSS
     - JSON
