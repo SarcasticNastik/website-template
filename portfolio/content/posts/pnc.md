@@ -1,6 +1,7 @@
 ---
 title: "Pnc"
 date: 2021-05-20T19:05:35+05:30
+categories: ["Physics"]
 ---
 # A First Course In Probability
 

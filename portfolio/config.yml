@@ -27,6 +27,10 @@ menu:
       name: Research
       url: "/research/"
       weight: 5
+    - identifier: Section
+      name: Section
+      url: "/section/"
+      weight: 25
 
 params:
   env: production

@@ -2,6 +2,7 @@
 title: "Ml"
 date: 2021-05-20T20:12:26+05:30
 tags: ["ML", "DL", "Classifiers"]
+categories: ["Physics", "Chemistry"]
 ---
 
 # AML random notes
