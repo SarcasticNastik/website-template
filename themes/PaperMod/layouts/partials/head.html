@@ -33,6 +33,23 @@
 <meta name="msvalidate.01" content="{{ .Site.Params.analytics.bing.SiteVerificationTag }}" />
 {{- end }}
 
+<style>
+    @font-face {
+        font-family: "FiraSans";
+        src: url("{{ .Site.BaseURL }}/fonts/Fira_Sans/FiraSans-ExtraLight.ttf") format("truetype");
+    }
+
+    @font-face {
+        font-family: "Iosevka";
+        src: url("{{ .Site.BaseURL }}/fonts/Iosevka/Regular/complete/Iosevka\ Nerd\ Font\ Complete\ Mono.ttf") format("truetype");
+    }
+
+    @font-face {
+        font-family: "Firacode";
+        src: url("{{ .Site.BaseURL }}/fonts/FiraCode/Regular/complete/Fira\ Code\ Regular\ Nerd\ Font\ Complete\ Mono.ttf") format("truetype");
+    }
+</style>
+
 {{- /* Styles */}}
 {{- $theme_vars := (resources.Get "css/core/theme-vars.css") }}
 {{- $reset := (resources.Get "css/core/reset.css") }}
