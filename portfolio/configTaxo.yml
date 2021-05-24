@@ -4,4 +4,6 @@ enableInlineShortcodes: true
 taxonomies:
   tag: tags
   category: categories
-  series: series
+  research: research
+  series: series # For writing a blog series on some topic
+

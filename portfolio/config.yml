@@ -23,10 +23,10 @@ menu:
       name: Search
       url: "/search/"
       weight: 30
-    - identifier: Research
-      name: Research
-      url: "/research/"
-      weight: 5
+    # - identifier: Research
+    #   name: Research
+    #   url: "/research/"
+    #   weight: 5
     - identifier: Section
       name: Section
       url: "/section/"
