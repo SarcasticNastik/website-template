@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://amanr.me/sitemap.xml
+Sitemap: http://amanr.me/website-template/sitemap.xml
